@@ -1,6 +1,6 @@
 import ShoppingCartHelpers from '../../utils/helpers/checkout_form.helper';
 import { randomFourDigitNumber } from '../../utils/consts/runtime.const';
-import { USER } from '../../utils/consts/user';
+import { USER } from '../../utils/consts/user.const';
 import { SleepDuration } from '../../utils/consts/wait.enum';
 import SignInCheck from '../../utils/helpers/signin.helper';
 

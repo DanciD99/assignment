@@ -1,5 +1,5 @@
 import { SleepDuration } from '../../utils/consts/wait.enum';
-import { URL_TEST, QA_WRONG_USERNAME, QA_PASSWORD, QA_USERNAME, QA_WRONG_PASSWORD } from '../../utils/consts/user';
+import { URL_TEST, QA_WRONG_USERNAME, QA_PASSWORD, QA_USERNAME, QA_WRONG_PASSWORD } from '../../utils/consts/user.const';
 import Login from '../../utils/helpers/login.helper';
 
 const loginCheckTestVariables = {

@@ -1,5 +1,5 @@
 import { setHeadlessWhen, setCommonPlugins } from '@codeceptjs/configure';
-import { URL_TEST, QA_USERNAME, QA_PASSWORD } from './utils/consts/user';
+import { URL_TEST, QA_USERNAME, QA_PASSWORD } from './utils/consts/user.const';
 import { SleepDuration } from './utils/consts/wait.enum';
 // turn on headless mode when running with HEADLESS=true environment variable
 // export HEADLESS=true && npx codeceptjs run
